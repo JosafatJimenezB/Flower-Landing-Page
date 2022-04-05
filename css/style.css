@@ -65,6 +65,7 @@ nav ul li a.active{
     max-width: 1300px;
     height: 100vh;
     padding: 0;
+    margin: auto;
 }
 
 .image-content{
